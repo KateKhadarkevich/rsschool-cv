@@ -28,3 +28,4 @@
 ## Languages:
 * Russian (Native)
 * English - A2 (in progress)
+* Polish - Starter (in progress)
