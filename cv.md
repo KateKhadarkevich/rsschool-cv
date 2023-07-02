@@ -18,6 +18,7 @@
 * Jira, Redmine
 * Postman, Insomnia
 * Git
+* Dev Tools
 
 ## Education
 * BSU (Manager-economist)
